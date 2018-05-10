@@ -1,0 +1,84 @@
+
+.body
+{
+    margin: 0px;
+}
+
+.bord
+{
+    width: 100%;
+    height: 100px;
+    background-color:#961313;
+    margin: 0px;
+}
+.bord div
+{
+    width: 10%;
+    height: 100px; 
+    display: inline;
+}
+.bord div span
+{
+    display: block;
+}
+.bord h2
+{
+    color: white;
+    
+    display: inline;
+    float: left;
+}
+.slide
+{
+    width: 100%;
+    height: 100%;
+    background-color:#e6dfdc;
+    margin: 0px;
+    margin-top: -5px;
+    position: absolute;
+}
+.slide .show
+{
+   max-width: 517px;
+    min-width: 400px;
+    background-color: #e25b5b;
+    margin: 5px 300px 5px 397px;
+    border-radius: 23%;
+}
+.show h2
+{
+    margin-top: 30px;
+    color: floralwhite;
+    padding: 10px;
+    text-align: center;
+   
+}
+.tab
+{
+    margin-left: 15%;
+    width: 60%;
+    border: 2px solid red;
+    
+}
+.tab td,th 
+{
+    border: 2px solid #e4dada;
+    width: 10%;
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: #fbf1f1;
+    
+}
+.tab th 
+{
+     background-color: #ec6161;
+}
+
+
+
+
+
+
+
